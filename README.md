@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **AI and machine learning**
 
-- 📫 How to reach me **mpofumusa10@gmail.com**
+- 📫 How to reach me **kyleeland1092@gmail.com**
 
 - ⚡ Fun fact **Hahahaha**
 

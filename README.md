@@ -1,10 +1,20 @@
 <h1 align="center">Hi 👋, I'm Musa</h1>
+<h3 align="center">AI Engineer · BSc Artificial Intelligence and Machine Learning (University of Zimbabwe)</h3>
 
--  I’m currently working on a **Speaker recognition system**
+I build machine learning and LLM applications end to end: data pipelines, models, APIs and the apps on top.
 
--  Ask me about **AI and machine learning**
+### Featured projects
 
--  How to reach me **enkosiexplorer@gmail.com**
+| Project | What it is |
+|---|---|
+| [Tobacco (Agrivision)](https://github.com/Mcgini100/Tobacco) | Bilingual (Shona/English) tobacco-leaf disease diagnosis: YOLOv8 classifier + GPT-4o-mini advice, Shona speech input, FastAPI, JWT, PWA |
+| [inVoiced](https://github.com/Mcgini100/inVoiced) | Voice-to-ledger app: Whisper transcription + GPT-4o-mini structured extraction for multi-currency (USD/ZiG) bookkeeping. Next.js, Prisma |
+| [DiabetiCare](https://github.com/Mcgini100/DiabetiCare) | Diabetes self-management app with Gemini-powered meal-photo analysis and glucometer OCR. Flask, SQLAlchemy, PWA |
+| [student-dropout-prediction-api](https://github.com/Mcgini100/student-dropout-prediction-api) | FastAPI service for multi-class dropout prediction: five-model comparison plus soft-voting ensemble, batch CSV scoring, Docker, CI |
+| [predictive-maintenance-construction](https://github.com/Mcgini100/predictive-maintenance-construction) | Failure prediction for construction equipment: feature-engineering pipelines, Random Forest, Streamlit alert dashboard, CI |
+
+- Ask me about **computer vision, LLM applications and ML APIs**
+- How to reach me: **enkosiexplorer@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Musa</h1>
-<h3 align="center">AI Engineer · BSc Artificial Intelligence and Machine Learning (University of Zimbabwe)</h3>
+<h3 align="center">AI Engineer </h3>
 
 I build machine learning and LLM applications end to end: data pipelines, models, APIs and the apps on top.
 
